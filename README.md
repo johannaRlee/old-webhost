@@ -1,3 +1,1 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-Portfolio to showcase my work
+ https://justjo120.github.io/
